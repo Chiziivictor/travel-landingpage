@@ -1,5 +1,7 @@
 # Responsive Travel Website 🌊
 
+[Live Demo](https://chiziivictor.github.io/travel-landingpage/)
+
 - Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
 - Contains animations when scrolling.
 - Includes a dark and light mode.
